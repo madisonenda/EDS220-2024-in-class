@@ -1,5 +1,3 @@
-# EDS220-2024-in-class
-In-class work for the EDS 220 Class Meds
 # EDS 220 In-Class Repository
 This repository hosts all the work completed in-class by Madison Enda during the EDS 220 - *Working with Environmental Datasets* lectures.
 ## Course Information
