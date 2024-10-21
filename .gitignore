@@ -1,3 +1,10 @@
+
+# Ignore the '.ipynb_checkpoints' directory
+.ipynb_checkpoint
+
+# Ignore the 'data' directory
+data/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
